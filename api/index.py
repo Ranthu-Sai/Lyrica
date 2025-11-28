@@ -1,0 +1,1 @@
+from lyrica import app

@@ -1,0 +1,295 @@
+{
+  "result": {
+    "status": "success",
+    "data": {
+      "source": "lrclib",
+      "artist": "Arijit Singh",
+      "title": "Tum Hi Ho",
+      "album": "Arijit Singh",
+      "duration": 262.0,
+      "instrumental": false,
+      "lyrics": "[00:11.20] Hum tere bin ab reh nahi sakte\n[00:15.55] Tere bina kya wajood mera\n[00:25.75] Hum tere bin ab reh nahi sakte\n[00:30.45] Tere bina kya wajood mera\n[00:35.65] Tujh se juda agar ho jaayenge\n[00:40.28] Toh khud se hi ho jaayenge juda\n[00:48.22] Kyun ki tum hi ho\n[00:50.62] Ab tum hi ho\n[00:53.33] Zindagi ab tum hi ho\n[00:58.48] Chain bhi\n[01:00.63] Mera dard bhi\n[01:03.10] Meri aashiqui ab tum hi ho\n[01:28.72] Tera mera rishta hai kaisa\n[01:33.43] Ek pal door gawara nahi\n[01:38.68] Tere liye har roz hain jeete;\n[01:43.77] Tujhko diya mera waqt sabhi\n[01:48.45] Koi lamha mera na ho tere bina\n[01:53.19] Har saans pe naam tera\n[02:00.83] Kyun ki tum hi ho\n[02:03.97] Ab tum hi ho\n[02:06.46] Zindagi ab tum hi ho\n[02:11.65] Chain bhi\n[02:13.84] Mera dard bhi\n[02:16.15] Meri aashiqui ab tum hi ho\n[02:40.75] Tum hi ho\n[02:51.10] Tum hi ho\n[02:52.06] Tere liye hi jiya main\n[02:56.57] Khudko jo yun de diya hai\n[03:01.01] Tere wafa ne mujhko sambhala;\n[03:06.58] Saare ghamon ko dil se nikala\n[03:11.35] Tere saath mera hai naseeb juda\n[03:16.91] Tujhe paake addhura na raha\n[03:21.93] Mmm\n[03:24.21] Kyun ki tum hi ho\n[03:27.27] Ab tum hi ho\n[03:29.79] Zindagi ab tum hi ho\n[03:34.79] Chain bhi\n[03:37.29] Mera dard bhi\n[03:39.82] Meri aashiqui ab tum hi ho\n[03:44.73] Kyun ki tum hi ho\n[03:46.98] Ab tum hi ho\n[03:48.75] Zindagi ab tum hi ho\n[03:55.94] Chain bhi\n[03:57.60] Mera dard bhi\n[03:59.69] Meri aashiqui ab tum hi ho\n[04:07.12] ",
+      "timestamp": "2025-11-28 23:10:17",
+      "timed_lyrics": [
+        {
+          "text": "Hum tere bin ab reh nahi sakte",
+          "start_time": 11200,
+          "end_time": 15550,
+          "id": "lrc_0"
+        },
+        {
+          "text": "Tere bina kya wajood mera",
+          "start_time": 15550,
+          "end_time": 25750,
+          "id": "lrc_1"
+        },
+        {
+          "text": "Hum tere bin ab reh nahi sakte",
+          "start_time": 25750,
+          "end_time": 30450,
+          "id": "lrc_2"
+        },
+        {
+          "text": "Tere bina kya wajood mera",
+          "start_time": 30450,
+          "end_time": 35650,
+          "id": "lrc_3"
+        },
+        {
+          "text": "Tujh se juda agar ho jaayenge",
+          "start_time": 35650,
+          "end_time": 40280,
+          "id": "lrc_4"
+        },
+        {
+          "text": "Toh khud se hi ho jaayenge juda",
+          "start_time": 40280,
+          "end_time": 48220,
+          "id": "lrc_5"
+        },
+        {
+          "text": "Kyun ki tum hi ho",
+          "start_time": 48220,
+          "end_time": 50620,
+          "id": "lrc_6"
+        },
+        {
+          "text": "Ab tum hi ho",
+          "start_time": 50620,
+          "end_time": 53330,
+          "id": "lrc_7"
+        },
+        {
+          "text": "Zindagi ab tum hi ho",
+          "start_time": 53330,
+          "end_time": 58480,
+          "id": "lrc_8"
+        },
+        {
+          "text": "Chain bhi",
+          "start_time": 58480,
+          "end_time": 60630,
+          "id": "lrc_9"
+        },
+        {
+          "text": "Mera dard bhi",
+          "start_time": 60630,
+          "end_time": 63100,
+          "id": "lrc_10"
+        },
+        {
+          "text": "Meri aashiqui ab tum hi ho",
+          "start_time": 63100,
+          "end_time": 88720,
+          "id": "lrc_11"
+        },
+        {
+          "text": "Tera mera rishta hai kaisa",
+          "start_time": 88720,
+          "end_time": 93430,
+          "id": "lrc_12"
+        },
+        {
+          "text": "Ek pal door gawara nahi",
+          "start_time": 93430,
+          "end_time": 98680,
+          "id": "lrc_13"
+        },
+        {
+          "text": "Tere liye har roz hain jeete;",
+          "start_time": 98680,
+          "end_time": 103770,
+          "id": "lrc_14"
+        },
+        {
+          "text": "Tujhko diya mera waqt sabhi",
+          "start_time": 103770,
+          "end_time": 108450,
+          "id": "lrc_15"
+        },
+        {
+          "text": "Koi lamha mera na ho tere bina",
+          "start_time": 108450,
+          "end_time": 113190,
+          "id": "lrc_16"
+        },
+        {
+          "text": "Har saans pe naam tera",
+          "start_time": 113190,
+          "end_time": 120830,
+          "id": "lrc_17"
+        },
+        {
+          "text": "Kyun ki tum hi ho",
+          "start_time": 120830,
+          "end_time": 123970,
+          "id": "lrc_18"
+        },
+        {
+          "text": "Ab tum hi ho",
+          "start_time": 123970,
+          "end_time": 126460,
+          "id": "lrc_19"
+        },
+        {
+          "text": "Zindagi ab tum hi ho",
+          "start_time": 126460,
+          "end_time": 131650,
+          "id": "lrc_20"
+        },
+        {
+          "text": "Chain bhi",
+          "start_time": 131650,
+          "end_time": 133840,
+          "id": "lrc_21"
+        },
+        {
+          "text": "Mera dard bhi",
+          "start_time": 133840,
+          "end_time": 136150,
+          "id": "lrc_22"
+        },
+        {
+          "text": "Meri aashiqui ab tum hi ho",
+          "start_time": 136150,
+          "end_time": 160750,
+          "id": "lrc_23"
+        },
+        {
+          "text": "Tum hi ho",
+          "start_time": 160750,
+          "end_time": 171100,
+          "id": "lrc_24"
+        },
+        {
+          "text": "Tum hi ho",
+          "start_time": 171100,
+          "end_time": 172060,
+          "id": "lrc_25"
+        },
+        {
+          "text": "Tere liye hi jiya main",
+          "start_time": 172060,
+          "end_time": 176570,
+          "id": "lrc_26"
+        },
+        {
+          "text": "Khudko jo yun de diya hai",
+          "start_time": 176570,
+          "end_time": 181010,
+          "id": "lrc_27"
+        },
+        {
+          "text": "Tere wafa ne mujhko sambhala;",
+          "start_time": 181010,
+          "end_time": 186580,
+          "id": "lrc_28"
+        },
+        {
+          "text": "Saare ghamon ko dil se nikala",
+          "start_time": 186580,
+          "end_time": 191350,
+          "id": "lrc_29"
+        },
+        {
+          "text": "Tere saath mera hai naseeb juda",
+          "start_time": 191350,
+          "end_time": 196910,
+          "id": "lrc_30"
+        },
+        {
+          "text": "Tujhe paake addhura na raha",
+          "start_time": 196910,
+          "end_time": 201930,
+          "id": "lrc_31"
+        },
+        {
+          "text": "Mmm",
+          "start_time": 201930,
+          "end_time": 204210,
+          "id": "lrc_32"
+        },
+        {
+          "text": "Kyun ki tum hi ho",
+          "start_time": 204210,
+          "end_time": 207270,
+          "id": "lrc_33"
+        },
+        {
+          "text": "Ab tum hi ho",
+          "start_time": 207270,
+          "end_time": 209790,
+          "id": "lrc_34"
+        },
+        {
+          "text": "Zindagi ab tum hi ho",
+          "start_time": 209790,
+          "end_time": 214790,
+          "id": "lrc_35"
+        },
+        {
+          "text": "Chain bhi",
+          "start_time": 214790,
+          "end_time": 217290,
+          "id": "lrc_36"
+        },
+        {
+          "text": "Mera dard bhi",
+          "start_time": 217290,
+          "end_time": 219820,
+          "id": "lrc_37"
+        },
+        {
+          "text": "Meri aashiqui ab tum hi ho",
+          "start_time": 219820,
+          "end_time": 224730,
+          "id": "lrc_38"
+        },
+        {
+          "text": "Kyun ki tum hi ho",
+          "start_time": 224730,
+          "end_time": 226980,
+          "id": "lrc_39"
+        },
+        {
+          "text": "Ab tum hi ho",
+          "start_time": 226980,
+          "end_time": 228750,
+          "id": "lrc_40"
+        },
+        {
+          "text": "Zindagi ab tum hi ho",
+          "start_time": 228750,
+          "end_time": 235940,
+          "id": "lrc_41"
+        },
+        {
+          "text": "Chain bhi",
+          "start_time": 235940,
+          "end_time": 237600,
+          "id": "lrc_42"
+        },
+        {
+          "text": "Mera dard bhi",
+          "start_time": 237600,
+          "end_time": 239690,
+          "id": "lrc_43"
+        },
+        {
+          "text": "Meri aashiqui ab tum hi ho",
+          "start_time": 239690,
+          "end_time": 247120,
+          "id": "lrc_44"
+        }
+      ],
+      "hasTimestamps": true
+    },
+    "attempts": [
+      {
+        "api": "Genius",
+        "status": "no_synced_lyrics"
+      }
+    ]
+  },
+  "expiry": 1764375017.682271
+}
